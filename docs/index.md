@@ -304,7 +304,7 @@ https://adworld.xctf.org.cn/
 - 
 
 ##### 课程作业
-
+1.- [网址]https://www.nssctf.cn/problem/2932
 
 
 ### CTF
